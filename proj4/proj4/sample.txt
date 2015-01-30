@@ -1,0 +1,32 @@
+3
+
+alex@alex.com
+    
+	1 hello@paul.com
+    
+	3 10
+    
+	2
+
+hello@paul.com
+    
+	2 alex@alex.com bruce@springsteen.net
+    
+	1
+    
+	1
+
+bruce@springsteen.net
+    
+	1 alex@alex.com
+    
+	4 3 7
+    
+	3
+
+2
+
+3 10 feelgood@happy.com alex@alex.com
+
+4 1 scary@virus.org bruce@springsteen.net
+

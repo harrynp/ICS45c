@@ -1,0 +1,74 @@
+Message received!
+From   : virus1
+To     : a
+Content: ID#1(Type#1)
+
+Message received!
+From   : virus2
+To     : b
+Content: ID#2(Type#2)
+
+Message received!
+From   : virus3
+To     : c
+Content: ID#3(Type#3)
+
+Message received!
+From   : virus4
+To     : d
+Content: ID#4(Type#4)
+
+Message received!
+From   : virus5
+To     : e
+Content: ID#5(Type#3)
+
+Message received!
+From   : a
+To     : b
+Content: ID#1(Type#1)
+
+Message received!
+From   : a
+To     : c
+Content: ID#1(Type#1)
+
+Message received!
+From   : a
+To     : d
+Content: ID#1(Type#1)
+
+Message received!
+From   : a
+To     : e
+Content: ID#1(Type#1)
+
+Message received!
+From   : b
+To     : a
+Content: ID#1(Type#1)
+
+Messages recieved by a
+Content#1: 2
+Total Recieved: 2
+
+Messages recieved by b
+Content#1: 1
+Content#2: 1
+Total Recieved: 2
+
+Messages recieved by c
+Content#1: 1
+Content#3: 1
+Total Recieved: 2
+
+Messages recieved by d
+Content#1: 1
+Content#4: 1
+Total Recieved: 2
+
+Messages recieved by e
+Content#1: 1
+Content#5: 1
+Total Recieved: 2
+
